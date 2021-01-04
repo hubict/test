@@ -1,1 +1,1 @@
-Start-Process calc.exe
+Start-Process notepad.exe
